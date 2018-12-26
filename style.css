@@ -1,6 +1,12 @@
 h1 {
 text-align: right;
 font-size: 50px;
+display:inline;
+white-space:nowrap;
 font-family: "Comic Sans MS";
 color: #F775F3;
+}
+
+img {
+ display:inline;
 }
